@@ -1,4 +1,4 @@
-# Vue Template
+# Vue-task-week7
 
 ## Project setup
 
