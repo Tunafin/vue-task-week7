@@ -4,7 +4,8 @@
     <router-link to="/">首頁</router-link> |
     <router-link to="/about">關於</router-link> |
     <router-link to="/products">產品列表</router-link> |
-    <router-link to="/cart">購物車</router-link>
+    <router-link to="/cart">購物車</router-link> |
+    <router-link to="/dashboard">後台</router-link>
     <hr>
     <router-view></router-view>
   </div>
